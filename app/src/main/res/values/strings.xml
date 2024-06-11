@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="TapTree">Star of Attack</string>
+    <string name="KeepTapping">Draw Sword</string>
+    <string name="TapDrink">Swinging of Sword</string>
+    <string name="TapEmpty">End of attack tap again to restart</string>
+    <string name="LemonTree">Lemon tree</string>
+    <string name="Lemon">Lemon</string>
+    <string name="GlassOfLemonade">Glass of lemonade</string>
+    <string name="EmptyGlass">Empty glass</string>
+</resources>
